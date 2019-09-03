@@ -1,4 +1,4 @@
-package com.example.eurekaconsumer.controller;
+package com.example.eurekaconsumerribbon.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
